@@ -1,3 +1,10 @@
+!pip install SpeechRecognition
+!pip install pyttsx3
+!pip install AppOpener
+!pip install pynput
+!pip install opencv-python
+!pip install pyaudio
+
 from Talk import Talk
 from Listen import Listen
 import cv2
